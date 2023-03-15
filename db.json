@@ -1,0 +1,57 @@
+{
+  "clientes": [
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Pedro (actualizado)",
+      "empresa": "Codigo Con Juan",
+      "email": "pedro@juan.com",
+      "telefono": "1398198938",
+      "notas": "Cliente actualizado",
+      "id": 5
+    },
+    {
+      "nombre": "Cristian",
+      "empresa": "Siigo",
+      "email": "cristian982940@gmail.com",
+      "telefono": "123456",
+      "notas": "qw",
+      "id": 11
+    },
+    {
+      "nombre": "Pedro (actualizado)",
+      "empresa": "Codigo Con Juan",
+      "email": "pedro@juan.com",
+      "telefono": "1398198938",
+      "notas": "Cliente actualizado",
+      "id": 12
+    },
+    {
+      "nombre": "Jonathan Actualizado",
+      "empresa": "Pulzo",
+      "email": "jfclavijo25@misena.edu.co",
+      "telefono": "3144416089",
+      "notas": "1234",
+      "id": 13
+    }
+  ]
+}
